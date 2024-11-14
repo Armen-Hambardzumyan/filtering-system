@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Brand A",
+    "price": 99.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.pexels.com/photos/610945/pexels-photo-610945.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "Brand B",
+    "price": 49.99,
+    "rating": 4.0,
+    "imageUrl": "https://images.pexels.com/photos/1034653/pexels-photo-1034653.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Brand C",
+    "price": 59.99,
+    "rating": 4.2,
+    "imageUrl": "https://images.pexels.com/photos/20228177/pexels-photo-20228177/free-photo-of-brand-pink-sneakers.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "brand": "Brand D",
+    "price": 499.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.pexels.com/photos/6751555/pexels-photo-6751555.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "id": 5,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.pexels.com/photos/28871567/pexels-photo-28871567/free-photo-of-stylish-portrait-in-black-leather-jacket.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  }
+]
